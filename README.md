@@ -13,6 +13,8 @@ web3validator provides much more than security! We are actively participating in
 
 [StateSync](https://github.com/web3validator/Zetachain_guide/blob/main/README.md#state-sync)
 
+[Genesis](https://github.com/web3validator/Zetachain_guide/blob/main/README.md#genesis)
+
 ## Install binary
 
 ```
