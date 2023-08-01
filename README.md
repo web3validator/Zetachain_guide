@@ -54,7 +54,8 @@ WantedBy=multi-user.target
 EOF
 
 ```
-If you want to quickly catch up with the network, use this [State Sync]
+# State Sync 
+If you want to quickly catch up with the network, use this 
 ```
 sudo systemctl stop zetacored
 
