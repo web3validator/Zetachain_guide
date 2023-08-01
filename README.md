@@ -10,6 +10,7 @@ web3validator provides much more than security! We are actively participating in
 
 ### Testnet
 [RPC_API](http://zetachain.web3validator.info:23657/)
+
 [StateSync](https://github.com/web3validator/Zetachain_guide/blob/main/README.md#state-sync)
 
 ## Install binary
